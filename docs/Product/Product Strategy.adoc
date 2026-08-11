@@ -83,7 +83,7 @@ At the highest generalization of product development strategy, use this structur
 4. Make it work better.
 5. Make it fancy.
 
-The frighteningly common occurrences of mixing up the order or skipping entire steps, resulting in:
+The frighteningly common occurrences of mixing up the order, or skipping entire steps, results in:
 
 * Poor user/customer experience.
 * Rapidly escalating total cost of development, not least due to substantial rework.
