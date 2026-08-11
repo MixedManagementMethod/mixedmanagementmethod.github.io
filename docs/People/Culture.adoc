@@ -191,7 +191,7 @@ So, what are the _wrong_ reasons?
 
 Steve Jobs stated the Bozo Explosion occurs because over time, bozos rise up the ranks and promote other bozos in their self-interest (high-performers make them look bad) and so pretty soon, you have a kakistocracy (the most unsuitable people have the most power). This is undoubtedly true in many organizations.
 
-_Promotion 'by default'_ occurs because a position in the hierarchy becomes vacant and the easiest thing to do is bump up the next person. Internal candidates often advantages: 
+_Promotion 'by default'_ occurs because a position in the hierarchy becomes vacant and the easiest thing to do is bump up the next person. Internal candidates have advantages: 
 
 * Having product/organizational knowledge
 * Being “the devil you know” (de-risking by familiarity). 
